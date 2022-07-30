@@ -1,0 +1,6 @@
+class Bird{
+
+  void fly(){
+
+  }
+}
