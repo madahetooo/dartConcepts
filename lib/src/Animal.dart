@@ -9,6 +9,7 @@ class Animal{
 
   void eating(){
     print("Animal is eating");
+    print("Animal is eating2");
   }
 
   Animal(){
